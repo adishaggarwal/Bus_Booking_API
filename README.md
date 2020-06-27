@@ -9,6 +9,10 @@ Once you download the "backend" folder , just run command "node app.js".
 The server will start running.
 Now you can test the API using POSTMAN.
 
+# POSTMAN COLLECTION LINKS
+For admin collection-https://www.getpostman.com/collections/b57ed5842772b5df5c9e
+For customer collection-https://www.getpostman.com/collections/f7138a101b3aa0935dda
+
 # CUSTOMER AND ADMIN SCHEMAS
 
 ![](images/1.PNG)
@@ -22,7 +26,7 @@ The status field in admin schema tells whether the seat is booked or not, in the
 
 # ALL API REQUESTS EXPALINED 
 
-token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiSmltbXkiLCJzY29wZXMiOlsiYWRtaW46YWNjZXNzIl0sImlhdCI6MTU5MzE4OTM5Nn0.PJhOXRDMg-9XZlCJMLoHZpTtl8-C3l4lXeCZfXIeXN0";
+Bearer token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiSmltbXkiLCJzY29wZXMiOlsiYWRtaW46YWNjZXNzIl0sImlhdCI6MTU5MzE4OTM5Nn0.PJhOXRDMg-9XZlCJMLoHZpTtl8-C3l4lXeCZfXIeXN0";
 
 1-Book a ticket(/bookticket/:seat/:id)(PATCH)
 The customer can only book a ticket if he/she has the unique id of that ticket.
