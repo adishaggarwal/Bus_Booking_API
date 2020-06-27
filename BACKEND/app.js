@@ -38,7 +38,7 @@ app.get("/token", (req, res) => {
   });
 */
 
-let token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiSmltbXkiLCJzY29wZXMiOlsiYWRtaW46YWNjZXNzIl0sImlhdCI6MTU5MzE4OTM5Nn0.PJhOXRDMg-9XZlCJMLoHZpTtl8-C3l4lXeCZfXIeXN0";
+var token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiSmltbXkiLCJzY29wZXMiOlsiYWRtaW46YWNjZXNzIl0sImlhdCI6MTU5MzE4OTM5Nn0.PJhOXRDMg-9XZlCJMLoHZpTtl8-C3l4lXeCZfXIeXN0";
   
 
 
