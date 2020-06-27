@@ -11,8 +11,8 @@ Now you can test the API using POSTMAN.
 
 # CUSTOMER AND ADMIN SCHEMAS
 
-![](images/1.JPG)
-![](images/2.JPG)
+![](images/1.PNG)
+![](images/2.PNG)
 
 # THE CORE LOGIC
 
